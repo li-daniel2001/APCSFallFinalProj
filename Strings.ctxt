@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Strings
+comment1.params=tension\ material\ gauge
+comment1.target=Strings(double,\ java.lang.String,\ int)
+comment10.params=isStrung
+comment10.target=void\ setStringIsStrung(boolean)
+comment11.params=
+comment11.target=boolean\ getStringIsStrung()
+comment12.params=
+comment12.target=java.lang.String\ inputString()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=numHits
+comment3.target=double\ TensionLoss(int)
+comment4.params=tension
+comment4.target=void\ setTension(double)
+comment5.params=
+comment5.target=double\ getTension()
+comment6.params=
+comment6.target=java.lang.String\ getMaterial()
+comment7.params=
+comment7.target=int\ getGauge()
+comment8.params=stringLength
+comment8.target=void\ setStringLength(double)
+comment9.params=
+comment9.target=double\ getStringLength()
+numComments=13
